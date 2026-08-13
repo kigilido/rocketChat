@@ -1,2 +1,0 @@
-# rocketChat
-Created by Rork
